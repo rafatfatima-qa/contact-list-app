@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contact-cards-app/static/css/main.eb6d4f85.chunk.css",
+    "main.js": "/contact-cards-app/static/js/main.890437d4.chunk.js",
+    "main.js.map": "/contact-cards-app/static/js/main.890437d4.chunk.js.map",
+    "runtime-main.js": "/contact-cards-app/static/js/runtime-main.17fc49ea.js",
+    "runtime-main.js.map": "/contact-cards-app/static/js/runtime-main.17fc49ea.js.map",
+    "static/css/2.818011ed.chunk.css": "/contact-cards-app/static/css/2.818011ed.chunk.css",
+    "static/js/2.546a92e6.chunk.js": "/contact-cards-app/static/js/2.546a92e6.chunk.js",
+    "static/js/2.546a92e6.chunk.js.map": "/contact-cards-app/static/js/2.546a92e6.chunk.js.map",
+    "static/js/3.972b2cb0.chunk.js": "/contact-cards-app/static/js/3.972b2cb0.chunk.js",
+    "static/js/3.972b2cb0.chunk.js.map": "/contact-cards-app/static/js/3.972b2cb0.chunk.js.map",
+    "index.html": "/contact-cards-app/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/contact-cards-app/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.eb6d4f85.chunk.css.map": "/contact-cards-app/static/css/main.eb6d4f85.chunk.css.map",
+    "static/js/2.546a92e6.chunk.js.LICENSE.txt": "/contact-cards-app/static/js/2.546a92e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17fc49ea.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.546a92e6.chunk.js",
+    "static/css/main.eb6d4f85.chunk.css",
+    "static/js/main.890437d4.chunk.js"
+  ]
+}
